@@ -13,7 +13,7 @@ function Descriptions() {
         <div className = 'col'>
           <h5 className = 'title-text'>Real Dogs</h5>
           <p className = 'sub-text'>
-            Dogs are man's best friend. But dogs can also be dog's best friend. Maybe even bester than man's best friend. On furbook, 					      you can find millions of other dogs who can be a loyal companion, trusted confidant, and reliable wrestling partner</p>
+             Dogs bite and are scary</p>
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Friends</h5>
